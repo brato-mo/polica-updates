@@ -1,0 +1,12 @@
+{
+ "channel": "test",
+ "package": "ba.polica.test",
+ "code": 94,
+ "name": "1.74-test2",
+ "notes": "TEST 1.74: ažuriranje iz javnog kanala (Preuzmi ažuriranje, provjera SHA-256 i potpisa); javni APK bez adresa servera; planogram odjela pored artikla koji nije u planogramima",
+ "size": 2128314,
+ "sha256": "d08e3899742adf9129d109fa314350dd3ad91b04541b3d2bd772d7323030300b",
+ "url": "https://raw.githubusercontent.com/brato-mo/polica-updates/main/test/Polica-1.74-test2.apk",
+ "cert": "5a6ce04a96e67f6ca6b55583efe000b916c551cb741ad326ff1602a33be00303",
+ "published": "2026-11-11T16:33:52Z"
+}
