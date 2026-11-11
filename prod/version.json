@@ -1,0 +1,12 @@
+{
+ "channel": "prod",
+ "package": "ba.polica",
+ "code": 76,
+ "name": "1.74",
+ "notes": "Ažuriranja iz javnog kanala: aplikacija sama ponudi novu verziju (Preuzmi ažuriranje, provjera SHA-256 i potpisa); adrese servera ostaju u aplikaciji; kompaktna traka nove verzije",
+ "size": 2128314,
+ "sha256": "d8a8af169ec71732517de5c914ba1f784f88bd6f40af1946650d317a80dade72",
+ "url": "https://raw.githubusercontent.com/brato-mo/polica-updates/main/prod/Polica-1.74.apk",
+ "cert": "443e361952c3c370e524a75f9fbb5fbf31197a30d13fa23262c36408c2a89982",
+ "published": "2026-11-11T16:47:04Z"
+}
