@@ -1,12 +1,12 @@
 {
  "channel": "prod",
  "package": "ba.polica",
- "code": 78,
- "name": "1.76",
- "notes": "Brže zalihe i cijene na planogramu: artikli na ekranu prvi i prikazuju se čim stignu; bolji rad na sporom internetu; panel zaliha se ne pomjera dok pomjeraš planogram",
- "size": 2140602,
- "sha256": "6bc97fd942fca1fbc6d60f8e2390c5aece480f24a7937f80b71a584a4d8fe147",
- "url": "https://raw.githubusercontent.com/brato-mo/polica-updates/main/prod/Polica-1.76.apk",
+ "code": 79,
+ "name": "1.77",
+ "notes": "Najprodavanije za bilo koji odjel i 7, 30 ili 365 dana; ispravljene šifre i oznake zaliha koje su nedostajale na planogramu; brže skeniranje barkodova; sigurniji SM/DM upis",
+ "size": 2148794,
+ "sha256": "07981db0ab0a6b8661cfc1af7da6124d5f71a98949ec67032a2dfa580e9673fc",
+ "url": "https://raw.githubusercontent.com/brato-mo/polica-updates/main/prod/Polica-1.77.apk",
  "cert": "443e361952c3c370e524a75f9fbb5fbf31197a30d13fa23262c36408c2a89982",
- "published": "2026-11-12T07:39:58Z"
+ "published": "2026-11-12T17:51:15Z"
 }
