@@ -1,12 +1,12 @@
 {
  "channel": "prod",
  "package": "ba.polica",
- "code": 81,
- "name": "1.79",
- "notes": "Planogram: zalihe i cijene imaju prednost dok rade spora čitanja (Najprodavanije, rasprodaja); manje lažnih poruka 'nema interneta'; bolja dijagnostika mreže.",
- "size": 2152890,
- "sha256": "67c427cb115ef4cb4bceffc66390b36cdb1423c9ef536f474189a8e5f19b7348",
- "url": "https://raw.githubusercontent.com/brato-mo/polica-updates/main/prod/Polica-1.79.apk",
+ "code": 82,
+ "name": "1.80",
+ "notes": "Planogram se više ne zacrni nakon povratka iz drugog planograma (ostaje ista stranica, zum i mjesto); dvije šifre na istoj etiketi imaju jednu oznaku (npr. 3 / 0) i obje cijene kad se razlikuju; nepročitana zaliha se nikad ne prikazuje kao 0.",
+ "size": 2156986,
+ "sha256": "ac1574f0cf2bd2348a98950e6e4ad38b13b50cf863d62417df1c23497a061b02",
+ "url": "https://raw.githubusercontent.com/brato-mo/polica-updates/main/prod/Polica-1.80.apk",
  "cert": "443e361952c3c370e524a75f9fbb5fbf31197a30d13fa23262c36408c2a89982",
- "published": "2026-11-12T20:46:41Z"
+ "published": "2026-11-12T21:18:35Z"
 }
