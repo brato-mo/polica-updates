@@ -1,12 +1,12 @@
 {
  "channel": "prod",
  "package": "ba.polica",
- "code": 80,
- "name": "1.78",
- "notes": "Najprodavanije radi i za velike odjele: čita stranicu po stranicu, prikazuje napredak, nastavlja prekinuto čitanje; tačan poredak za 7 i 365 dana",
+ "code": 81,
+ "name": "1.79",
+ "notes": "Planogram: zalihe i cijene imaju prednost dok rade spora čitanja (Najprodavanije, rasprodaja); manje lažnih poruka 'nema interneta'; bolja dijagnostika mreže.",
  "size": 2152890,
- "sha256": "6663c4c4aff5cdc919e133f59284a8057bf358609233e7ca52537ab72fd03de3",
- "url": "https://raw.githubusercontent.com/brato-mo/polica-updates/main/prod/Polica-1.78.apk",
+ "sha256": "67c427cb115ef4cb4bceffc66390b36cdb1423c9ef536f474189a8e5f19b7348",
+ "url": "https://raw.githubusercontent.com/brato-mo/polica-updates/main/prod/Polica-1.79.apk",
  "cert": "443e361952c3c370e524a75f9fbb5fbf31197a30d13fa23262c36408c2a89982",
- "published": "2026-11-12T18:20:28Z"
+ "published": "2026-11-12T20:46:41Z"
 }
