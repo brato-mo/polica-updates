@@ -1,12 +1,12 @@
 {
  "channel": "prod",
  "package": "ba.polica",
- "code": 82,
- "name": "1.80",
- "notes": "Planogram se više ne zacrni nakon povratka iz drugog planograma (ostaje ista stranica, zum i mjesto); dvije šifre na istoj etiketi imaju jednu oznaku (npr. 3 / 0) i obje cijene kad se razlikuju; nepročitana zaliha se nikad ne prikazuje kao 0.",
- "size": 2156986,
- "sha256": "ac1574f0cf2bd2348a98950e6e4ad38b13b50cf863d62417df1c23497a061b02",
- "url": "https://raw.githubusercontent.com/brato-mo/polica-updates/main/prod/Polica-1.80.apk",
+ "code": 87,
+ "name": "1.85",
+ "notes": "Brže zalihe na planogramu (lakše čitanje kad je lanac zamjena poznat). Jedna cijena za povezane šifre (bez \"/ ? KM\"). Prozorčić oznake navodi i vlastitu šifru. Nova instalacija ne traži adrese servera. Tehnička dijagnostika bez imena i broja zaposlenika, samo uz \"Uključi dijagnostiku\".",
+ "size": 4113575,
+ "sha256": "e321222d74c372910fb84129aed973dc48f822234de10a132d96857e6280fa3f",
+ "url": "https://raw.githubusercontent.com/brato-mo/polica-updates/main/prod/Polica-1.85.apk",
  "cert": "443e361952c3c370e524a75f9fbb5fbf31197a30d13fa23262c36408c2a89982",
- "published": "2026-11-12T21:18:35Z"
+ "published": "2026-11-13T08:02:59Z"
 }
