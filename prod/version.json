@@ -1,12 +1,12 @@
 {
  "channel": "prod",
  "package": "ba.polica",
- "code": 89,
- "name": "1.87",
- "notes": "Narudžbe: kupci po vremenu kreiranja narudžbe iz StoreFronta (Narudžba kreirana), kad ga StoreFront pošalje. Postavke → Privatnost i dijagnostika: popis polja pokazuje i prazna polja.",
+ "code": 90,
+ "name": "1.88",
+ "notes": "Narudžbe: bez pretrage prvo kartice (Narudžbe kupaca, rasprodaja, Minus, Prijedlozi), pa lista Čeka prijem robe. Kad upišeš šifru ili kupca, kupci su odmah ispod pretrage.",
  "size": 4121834,
- "sha256": "4ee7419b07115c730d6332672f28f00913b1cbe0783aaf2c104c47f575176903",
- "url": "https://raw.githubusercontent.com/brato-mo/polica-updates/main/prod/Polica-1.87.apk",
+ "sha256": "1780d68bf5f5948469edccad84c30b66b311c7f14b5d768986e5144f5cfb2a92",
+ "url": "https://raw.githubusercontent.com/brato-mo/polica-updates/main/prod/Polica-1.88.apk",
  "cert": "443e361952c3c370e524a75f9fbb5fbf31197a30d13fa23262c36408c2a89982",
- "published": "2026-11-13T17:40:54Z"
+ "published": "2026-11-13T20:41:54Z"
 }
