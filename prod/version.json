@@ -1,12 +1,12 @@
 {
  "channel": "prod",
  "package": "ba.polica",
- "code": 92,
- "name": "1.90",
- "notes": "Narudžbe: dodir na šifru otvara taj artikal u StoreFrontu, ostatak reda pokazuje kupce. Početna bez stalnih uputa. Prva interna napomena objašnjena u Poredaj.",
- "size": 4130098,
- "sha256": "b621adebcbb549285745dba8b0f5d9e1ab48a0de7f6c366313b4c35c0a5f3987",
- "url": "https://raw.githubusercontent.com/brato-mo/polica-updates/main/prod/Polica-1.90.apk",
+ "code": 93,
+ "name": "1.91",
+ "notes": "Ostali alati → Punjenje: otvara službeno Punjenje u StoreFrontu. Na planogramu u prozoru artikla dugme Dodaj na punjenje (kopira šifru i otvara Punjenje). Aplikacija zapamti samo nazive polja Punjenja da bi se kasnije povezao pregled lista.",
+ "size": 4134262,
+ "sha256": "358bbe66d51c9556c990349ecd62bfe22db6b8fe623b1e18d9850e1cd3a600e4",
+ "url": "https://raw.githubusercontent.com/brato-mo/polica-updates/main/prod/Polica-1.91.apk",
  "cert": "443e361952c3c370e524a75f9fbb5fbf31197a30d13fa23262c36408c2a89982",
- "published": "2026-11-13T22:04:31Z"
+ "published": "2026-11-13T22:48:05Z"
 }
