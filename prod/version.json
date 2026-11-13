@@ -1,12 +1,12 @@
 {
  "channel": "prod",
  "package": "ba.polica",
- "code": 87,
- "name": "1.85",
- "notes": "Brže zalihe na planogramu (lakše čitanje kad je lanac zamjena poznat). Jedna cijena za povezane šifre (bez \"/ ? KM\"). Prozorčić oznake navodi i vlastitu šifru. Nova instalacija ne traži adrese servera. Tehnička dijagnostika bez imena i broja zaposlenika, samo uz \"Uključi dijagnostiku\".",
- "size": 4113575,
- "sha256": "e321222d74c372910fb84129aed973dc48f822234de10a132d96857e6280fa3f",
- "url": "https://raw.githubusercontent.com/brato-mo/polica-updates/main/prod/Polica-1.85.apk",
+ "code": 88,
+ "name": "1.86",
+ "notes": "Zadnje traženo: zaliha, status i starost odmah, „Na planogramu“ jednim dodirom otvara označenu stranicu. Narudžbe: kupci odmah ispod pretrage, raniji račun prvi. Kartica planograma prvo pokazuje broj artikala 21 i 81. Postavke u pet grupa, izbori ostaju.",
+ "size": 4121834,
+ "sha256": "a7da923536ceac5fda04cd1703556423f69b4d7a351c5d46909c992241166fd6",
+ "url": "https://raw.githubusercontent.com/brato-mo/polica-updates/main/prod/Polica-1.86.apk",
  "cert": "443e361952c3c370e524a75f9fbb5fbf31197a30d13fa23262c36408c2a89982",
- "published": "2026-11-13T08:02:59Z"
+ "published": "2026-11-13T17:12:04Z"
 }
