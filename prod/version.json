@@ -1,12 +1,12 @@
 {
  "channel": "prod",
  "package": "ba.polica",
- "code": 91,
- "name": "1.89",
- "notes": "Narudžbe: dugme Poredaj (najstarije, najnovije, najviše komada, najviše narudžbi), na svakom redu komadi i narudžbe. Dodir na artikal pokazuje ko ga čeka, najstarije prvo, i koliko je redoslijed pouzdan. Filter Samo što još čeka.",
+ "code": 92,
+ "name": "1.90",
+ "notes": "Narudžbe: dodir na šifru otvara taj artikal u StoreFrontu, ostatak reda pokazuje kupce. Početna bez stalnih uputa. Prva interna napomena objašnjena u Poredaj.",
  "size": 4130098,
- "sha256": "893d5be5d089daa8fb98f76f120c2b8a81e59c6695186ee70437001861088e32",
- "url": "https://raw.githubusercontent.com/brato-mo/polica-updates/main/prod/Polica-1.89.apk",
+ "sha256": "b621adebcbb549285745dba8b0f5d9e1ab48a0de7f6c366313b4c35c0a5f3987",
+ "url": "https://raw.githubusercontent.com/brato-mo/polica-updates/main/prod/Polica-1.90.apk",
  "cert": "443e361952c3c370e524a75f9fbb5fbf31197a30d13fa23262c36408c2a89982",
- "published": "2026-11-13T21:23:05Z"
+ "published": "2026-11-13T22:04:31Z"
 }
