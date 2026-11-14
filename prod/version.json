@@ -1,12 +1,12 @@
 {
  "channel": "prod",
  "package": "ba.polica",
- "code": 98,
- "name": "1.96",
- "notes": "Skener: etiketa s dva barkoda i okrenut barkod se čitaju. Barkod povezan s artiklom van planograma (npr. VIDAR) otvara artikal; ručna šifra uz potvrdu. Mjesta artikla (BRONSIT) svako svoje. Uklonjen Prijem robe. Punjenje cijelo u aplikaciji: nova lista, skeniraj, Na listi · Dodaješ · Ukupno, Spremi.",
- "size": 4150712,
- "sha256": "c5d57a0c8d2d0b0fe56acd420d3f8bd662198375697b276938c6549d313a76a4",
- "url": "https://raw.githubusercontent.com/brato-mo/polica-updates/main/prod/Polica-1.96.apk",
+ "code": 99,
+ "name": "1.97",
+ "notes": "Punjenje: Max (koliko još stane na listu), Izbriši listu i bez mreže (šalje se kasnije, može se poništiti). Detaljna dijagnostika: Samo greške, Kopiraj sažetak. Minus lista: kupci za zamjensku šifru. SM/DM pokazuje red koji nije spremljen. Uklonjeno Označi mjesta.",
+ "size": 4167163,
+ "sha256": "5a02ada875c16f12133a8584fa16c6c97eeeb20628c08142905ea12f9ccbb188",
+ "url": "https://raw.githubusercontent.com/brato-mo/polica-updates/main/prod/Polica-1.97.apk",
  "cert": "443e361952c3c370e524a75f9fbb5fbf31197a30d13fa23262c36408c2a89982",
- "published": "2026-11-14T16:29:57Z"
+ "published": "2026-11-14T18:08:02Z"
 }
