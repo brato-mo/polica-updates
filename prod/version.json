@@ -1,12 +1,12 @@
 {
  "channel": "prod",
  "package": "ba.polica",
- "code": 97,
- "name": "1.95",
- "notes": "Povezana šifra otvara svoj StoreFront. Dodaj na punjenje: puni natpis, šifra, lista i količina prije potvrde. Napomene planograma na bosanskom. Sličica artikla više nije odsječena. Šifra van pretrage nudi StoreFront. Narudžbe kažu kad je vrijeme iz SMS-a.",
- "size": 4146616,
- "sha256": "55505460680921c6b08c0e2130bbd28976086a01e1491fe6c9df5a29bfb00e72",
- "url": "https://raw.githubusercontent.com/brato-mo/polica-updates/main/prod/Polica-1.95.apk",
+ "code": 98,
+ "name": "1.96",
+ "notes": "Skener: etiketa s dva barkoda i okrenut barkod se čitaju. Barkod povezan s artiklom van planograma (npr. VIDAR) otvara artikal; ručna šifra uz potvrdu. Mjesta artikla (BRONSIT) svako svoje. Uklonjen Prijem robe. Punjenje cijelo u aplikaciji: nova lista, skeniraj, Na listi · Dodaješ · Ukupno, Spremi.",
+ "size": 4150712,
+ "sha256": "c5d57a0c8d2d0b0fe56acd420d3f8bd662198375697b276938c6549d313a76a4",
+ "url": "https://raw.githubusercontent.com/brato-mo/polica-updates/main/prod/Polica-1.96.apk",
  "cert": "443e361952c3c370e524a75f9fbb5fbf31197a30d13fa23262c36408c2a89982",
- "published": "2026-11-14T08:31:23Z"
+ "published": "2026-11-14T16:29:57Z"
 }
