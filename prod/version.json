@@ -1,12 +1,12 @@
 {
  "channel": "prod",
  "package": "ba.polica",
- "code": 95,
- "name": "1.93",
- "notes": "Punjenje povezano sa StoreFrontom: tvoje liste, Za dopunu, Na planogramu, i Dodaj na punjenje s planograma. JYSK+ cijena kod artikla. Planogram na serveru za artikle kojih nema na telefonu. Ostali alati: Prijem robe.",
+ "code": 96,
+ "name": "1.94",
+ "notes": "Narudžbe: vrijeme kreiranja iz historije narudžbe (najstariji zapis), oznaka Kreirano. Redoslijed kupaca je sada po stvarnom vremenu kreiranja, bez oznake približno.",
  "size": 4138358,
- "sha256": "735038fbbe0aea999246452ff58ec3184c7a3fba4f3a616174705b6008cf33de",
- "url": "https://raw.githubusercontent.com/brato-mo/polica-updates/main/prod/Polica-1.93.apk",
+ "sha256": "a19c9ce55efba8a05cb45e6c979009c9c9d3646bcc8d16efb150b85f1a098477",
+ "url": "https://raw.githubusercontent.com/brato-mo/polica-updates/main/prod/Polica-1.94.apk",
  "cert": "443e361952c3c370e524a75f9fbb5fbf31197a30d13fa23262c36408c2a89982",
- "published": "2026-11-14T07:18:37Z"
+ "published": "2026-11-14T07:42:26Z"
 }
