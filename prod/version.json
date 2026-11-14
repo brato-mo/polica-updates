@@ -1,12 +1,12 @@
 {
  "channel": "prod",
  "package": "ba.polica",
- "code": 96,
- "name": "1.94",
- "notes": "Narudžbe: vrijeme kreiranja iz historije narudžbe (najstariji zapis), oznaka Kreirano. Redoslijed kupaca je sada po stvarnom vremenu kreiranja, bez oznake približno.",
- "size": 4138358,
- "sha256": "a19c9ce55efba8a05cb45e6c979009c9c9d3646bcc8d16efb150b85f1a098477",
- "url": "https://raw.githubusercontent.com/brato-mo/polica-updates/main/prod/Polica-1.94.apk",
+ "code": 97,
+ "name": "1.95",
+ "notes": "Povezana šifra otvara svoj StoreFront. Dodaj na punjenje: puni natpis, šifra, lista i količina prije potvrde. Napomene planograma na bosanskom. Sličica artikla više nije odsječena. Šifra van pretrage nudi StoreFront. Narudžbe kažu kad je vrijeme iz SMS-a.",
+ "size": 4146616,
+ "sha256": "55505460680921c6b08c0e2130bbd28976086a01e1491fe6c9df5a29bfb00e72",
+ "url": "https://raw.githubusercontent.com/brato-mo/polica-updates/main/prod/Polica-1.95.apk",
  "cert": "443e361952c3c370e524a75f9fbb5fbf31197a30d13fa23262c36408c2a89982",
- "published": "2026-11-14T07:42:26Z"
+ "published": "2026-11-14T08:31:23Z"
 }
