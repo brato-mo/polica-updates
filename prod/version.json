@@ -1,12 +1,12 @@
 {
  "channel": "prod",
  "package": "ba.polica",
- "code": 94,
- "name": "1.92",
- "notes": "Narudžbe: oznaka Čeka plaćanje, skeniran barkod narudžbe otvara narudžbu. Kapacitet svih polica. Prodajna zaliha na SM/DM. Objašnjenje kad StoreFront ne nađe staru šifru.",
+ "code": 95,
+ "name": "1.93",
+ "notes": "Punjenje povezano sa StoreFrontom: tvoje liste, Za dopunu, Na planogramu, i Dodaj na punjenje s planograma. JYSK+ cijena kod artikla. Planogram na serveru za artikle kojih nema na telefonu. Ostali alati: Prijem robe.",
  "size": 4138358,
- "sha256": "caf026cfc5798e05e707c95186c9f3a51389b9a2fc2d08ccb9368c810fe093a4",
- "url": "https://raw.githubusercontent.com/brato-mo/polica-updates/main/prod/Polica-1.92.apk",
+ "sha256": "735038fbbe0aea999246452ff58ec3184c7a3fba4f3a616174705b6008cf33de",
+ "url": "https://raw.githubusercontent.com/brato-mo/polica-updates/main/prod/Polica-1.93.apk",
  "cert": "443e361952c3c370e524a75f9fbb5fbf31197a30d13fa23262c36408c2a89982",
- "published": "2026-11-14T06:51:33Z"
+ "published": "2026-11-14T07:18:37Z"
 }
