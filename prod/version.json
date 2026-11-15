@@ -1,12 +1,12 @@
 {
  "channel": "prod",
  "package": "ba.polica",
- "code": 102,
- "name": "2.00",
- "notes": "Dijagnostika: jasniji ekran (šta čeka slanje, šta je Cloudflare potvrdio, a šta nije poslano i zašto); greške čitanja OOPUS-a, Punjenja i SM/DM se vide pod svojim imenom. OOPUS: izlazak iz narudžbe prije potpisa više se ne bilježi kao greška.",
+ "code": 103,
+ "name": "2.01",
+ "notes": "Narudžbe: prozor za čitanje ima iste sistemske trake kao aplikacija od prvog trenutka (bez crne donje trake). Sigurnije vraćanje podataka iz sigurnosne kopije. Provjere nakon 2.00.",
  "size": 4191806,
- "sha256": "3cb61507c655013807c21d83612010461e33c6d123d708442927c74001fc8a17",
- "url": "https://raw.githubusercontent.com/brato-mo/polica-updates/main/prod/Polica-2.00.apk",
+ "sha256": "a5cc32f16ec5a6b1d1b4081b26ce1f59bb913910bb5b28bda0d2a8722053f84d",
+ "url": "https://raw.githubusercontent.com/brato-mo/polica-updates/main/prod/Polica-2.01.apk",
  "cert": "443e361952c3c370e524a75f9fbb5fbf31197a30d13fa23262c36408c2a89982",
- "published": "2026-11-15T16:28:39Z"
+ "published": "2026-11-15T16:59:34Z"
 }
