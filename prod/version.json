@@ -1,12 +1,12 @@
 {
  "channel": "prod",
  "package": "ba.polica",
- "code": 103,
- "name": "2.01",
- "notes": "Narudžbe: prozor za čitanje ima iste sistemske trake kao aplikacija od prvog trenutka (bez crne donje trake). Sigurnije vraćanje podataka iz sigurnosne kopije. Provjere nakon 2.00.",
+ "code": 104,
+ "name": "2.02",
+ "notes": "Planogrami: zalihe stižu brže, povezane šifre više ne prekidaju čitanje zaliha. OOPUS: pretraga i skeniranje se više ne preklapaju.",
  "size": 4191806,
- "sha256": "a5cc32f16ec5a6b1d1b4081b26ce1f59bb913910bb5b28bda0d2a8722053f84d",
- "url": "https://raw.githubusercontent.com/brato-mo/polica-updates/main/prod/Polica-2.01.apk",
+ "sha256": "37cea0f8d6e04252e526d21424f457f5169196fa496dd70e5f24c505c2bf3e66",
+ "url": "https://raw.githubusercontent.com/brato-mo/polica-updates/main/prod/Polica-2.02.apk",
  "cert": "443e361952c3c370e524a75f9fbb5fbf31197a30d13fa23262c36408c2a89982",
- "published": "2026-11-15T16:59:34Z"
+ "published": "2026-11-15T21:00:11Z"
 }
