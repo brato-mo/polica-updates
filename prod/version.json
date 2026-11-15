@@ -1,12 +1,12 @@
 {
  "channel": "prod",
  "package": "ba.polica",
- "code": 101,
- "name": "1.99",
- "notes": "OOPUS: ime kupca prvo, telefon kupca (dodir otvara birač), slika i šifra uz svaku stavku. SM/DM: dodir na šifru otvara StoreFront ili planogram. Slike proizvoda se čuvaju na telefonu. Historija zalihe brža i odmah vidljiva pri ponovnom otvaranju. Popravke: velika OOPUS narudžba, nepoznat status povrata, brza pretraga, SM/DM nakon prekida veze.",
+ "code": 102,
+ "name": "2.00",
+ "notes": "Dijagnostika: jasniji ekran (šta čeka slanje, šta je Cloudflare potvrdio, a šta nije poslano i zašto); greške čitanja OOPUS-a, Punjenja i SM/DM se vide pod svojim imenom. OOPUS: izlazak iz narudžbe prije potpisa više se ne bilježi kao greška.",
  "size": 4191806,
- "sha256": "288178185ecaafbf813124c97f04b2280bbc080dd8b12fbf1e1fdb3da858ac9f",
- "url": "https://raw.githubusercontent.com/brato-mo/polica-updates/main/prod/Polica-1.99.apk",
+ "sha256": "3cb61507c655013807c21d83612010461e33c6d123d708442927c74001fc8a17",
+ "url": "https://raw.githubusercontent.com/brato-mo/polica-updates/main/prod/Polica-2.00.apk",
  "cert": "443e361952c3c370e524a75f9fbb5fbf31197a30d13fa23262c36408c2a89982",
- "published": "2026-11-15T07:00:04Z"
+ "published": "2026-11-15T16:28:39Z"
 }
