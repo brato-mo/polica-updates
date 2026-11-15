@@ -1,12 +1,12 @@
 {
  "channel": "prod",
  "package": "ba.polica",
- "code": 100,
- "name": "1.98",
- "notes": "Brže zaliha i cijena artikla. Novo: Ostali alati → OOPUS (online narudžbe za preuzimanje u prodavnici, predaja s potpisom kupca). Narudžbe: djelimično zaprimljena roba ostaje u „Samo što još čeka“. SM/DM: prijedlog i razlog po artiklu, statusi 21, 81 i 42, „Nije očitano“ umjesto 0. Punjenje: jasnije kad je lista već nestala.",
- "size": 4187710,
- "sha256": "d3e6b431d1e8b3b15c2af7425e0ef301a20719678d7b13ef88cef8a973258b96",
- "url": "https://raw.githubusercontent.com/brato-mo/polica-updates/main/prod/Polica-1.98.apk",
+ "code": 101,
+ "name": "1.99",
+ "notes": "OOPUS: ime kupca prvo, telefon kupca (dodir otvara birač), slika i šifra uz svaku stavku. SM/DM: dodir na šifru otvara StoreFront ili planogram. Slike proizvoda se čuvaju na telefonu. Historija zalihe brža i odmah vidljiva pri ponovnom otvaranju. Popravke: velika OOPUS narudžba, nepoznat status povrata, brza pretraga, SM/DM nakon prekida veze.",
+ "size": 4191806,
+ "sha256": "288178185ecaafbf813124c97f04b2280bbc080dd8b12fbf1e1fdb3da858ac9f",
+ "url": "https://raw.githubusercontent.com/brato-mo/polica-updates/main/prod/Polica-1.99.apk",
  "cert": "443e361952c3c370e524a75f9fbb5fbf31197a30d13fa23262c36408c2a89982",
- "published": "2026-11-14T22:25:34Z"
+ "published": "2026-11-15T07:00:04Z"
 }
