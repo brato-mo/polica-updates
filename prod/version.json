@@ -1,12 +1,12 @@
 {
  "channel": "prod",
  "package": "ba.polica",
- "code": 109,
- "name": "2.07",
- "notes": "Narudžbe: ostale stavke iste narudžbe i narudžba odmah ispod artikla. Klizač historije zalihe do godinu dana. Barkodovi preko StoreFrontove tačne pretrage i zajednička lista. Najprodavanije se više ne prekida.",
- "size": 4204094,
- "sha256": "be2b18bcce93046441700f6b6c5fec38ab8cff713c47f502b6b3da7e0e145ec9",
- "url": "https://raw.githubusercontent.com/brato-mo/polica-updates/main/prod/Polica-2.07.apk",
+ "code": 111,
+ "name": "2.08",
+ "notes": "Narudžbe po narudžbama (Čeka robu, Djelimično, Sve stiglo), bez skakanja ekrana. Planogram odmah ispod artikla, manji ekran artikla. Historija zalihe više ne hvata prst. Dijeljenje barkodova samo kad je uključeno.",
+ "size": 4208190,
+ "sha256": "d5d34858f7b2da4b4431f50ef7a9d744620b83d0097a2ba76e5c8b116230e94d",
+ "url": "https://raw.githubusercontent.com/brato-mo/polica-updates/main/prod/Polica-2.08.apk",
  "cert": "443e361952c3c370e524a75f9fbb5fbf31197a30d13fa23262c36408c2a89982",
- "published": "2026-11-16T15:53:08Z"
+ "published": "2026-11-16T18:07:32Z"
 }
