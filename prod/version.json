@@ -1,12 +1,12 @@
 {
  "channel": "prod",
  "package": "ba.polica",
- "code": 105,
- "name": "2.03",
- "notes": "Planogrami: zalihe stranice stižu znatno brže (jedan zahtjev po šifri, šifre kojih nema u StoreFrontu se ne traže stalno ponovo). Oznake više ne pokazuju „/ —“ ni „/ ? KM“ za stari broj na etiketi; brojač kaže koliko šifri StoreFront nema.",
- "size": 4195902,
- "sha256": "2582dc7bd7899f9a53e7ab63da47a184fac56598265e480327e0ba0e8a38a21f",
- "url": "https://raw.githubusercontent.com/brato-mo/polica-updates/main/prod/Polica-2.03.apk",
+ "code": 109,
+ "name": "2.07",
+ "notes": "Narudžbe: ostale stavke iste narudžbe i narudžba odmah ispod artikla. Klizač historije zalihe do godinu dana. Barkodovi preko StoreFrontove tačne pretrage i zajednička lista. Najprodavanije se više ne prekida.",
+ "size": 4204094,
+ "sha256": "be2b18bcce93046441700f6b6c5fec38ab8cff713c47f502b6b3da7e0e145ec9",
+ "url": "https://raw.githubusercontent.com/brato-mo/polica-updates/main/prod/Polica-2.07.apk",
  "cert": "443e361952c3c370e524a75f9fbb5fbf31197a30d13fa23262c36408c2a89982",
- "published": "2026-11-15T22:15:44Z"
+ "published": "2026-11-16T15:53:08Z"
 }
