@@ -1,12 +1,12 @@
 {
  "channel": "prod",
  "package": "ba.polica",
- "code": 112,
- "name": "2.09",
- "notes": "Stavke narudžbe kao obojeni redovi (zeleno stiglo, narandžasto čeka). Tehnička dijagnostika i zajednički barkodovi uključeni sami, uz obavijest jednom; mogu se isključiti u Postavkama.",
+ "code": 114,
+ "name": "2.11",
+ "notes": "Narudžbe: skenirani artikal prvi na narudžbi; nepotpuno pročitana narudžba to jasno kaže (npr. 1+ kom, nepotpuno 1/3). Pozadinska provjera narudžbi štedi bateriju.",
  "size": 4212286,
- "sha256": "60b96960fa4cb69658e2916aa2580ab8e65ba2bf64cc0d3e1c2e945e65428a4d",
- "url": "https://raw.githubusercontent.com/brato-mo/polica-updates/main/prod/Polica-2.09.apk",
+ "sha256": "6e537f099ae59286c64dd98982939dcebb5491ac3ffb113efedc4f970b584b3d",
+ "url": "https://raw.githubusercontent.com/brato-mo/polica-updates/main/prod/Polica-2.11.apk",
  "cert": "443e361952c3c370e524a75f9fbb5fbf31197a30d13fa23262c36408c2a89982",
- "published": "2026-11-16T21:45:27Z"
+ "published": "2026-11-17T21:49:48Z"
 }
