@@ -1,12 +1,12 @@
 {
  "channel": "prod",
  "package": "ba.polica",
- "code": 114,
- "name": "2.11",
- "notes": "Narudžbe: skenirani artikal prvi na narudžbi; nepotpuno pročitana narudžba to jasno kaže (npr. 1+ kom, nepotpuno 1/3). Pozadinska provjera narudžbi štedi bateriju.",
- "size": 4212286,
- "sha256": "6e537f099ae59286c64dd98982939dcebb5491ac3ffb113efedc4f970b584b3d",
- "url": "https://raw.githubusercontent.com/brato-mo/polica-updates/main/prod/Polica-2.11.apk",
+ "code": 117,
+ "name": "2.14",
+ "notes": "OOPUS predaja: potpis kao StoreFrontov; upozorenje kad StoreFront ne sačuva potpis. Ime artikla prelomljeno u uskoj etiketi se spaja (npr. SANDELTRE), pretraga nalazi i bez razmaka.",
+ "size": 4216382,
+ "sha256": "61e14dc05b5397ab971a4d1a0b7b71647a02886831e2721e37958809fb856344",
+ "url": "https://raw.githubusercontent.com/brato-mo/polica-updates/main/prod/Polica-2.14.apk",
  "cert": "443e361952c3c370e524a75f9fbb5fbf31197a30d13fa23262c36408c2a89982",
- "published": "2026-11-17T21:49:48Z"
+ "published": "2026-11-18T16:55:09Z"
 }
