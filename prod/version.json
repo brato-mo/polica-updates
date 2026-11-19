@@ -1,12 +1,12 @@
 {
  "channel": "prod",
  "package": "ba.polica",
- "code": 118,
- "name": "2.15",
- "notes": "Narudžbe i Minus lista se osvježavaju same dok je aplikacija otvorena (Narudžbe svakih 10 min, Minus lista 30 min). Obavijesti za nove narudžbe, pristiglu robu i promjene Minus liste, bez imena kupaca: Postavke → Automatske provjere i obavijesti. Djelimično pristigla roba piše „Stigao dio robe“.",
- "size": 4228738,
- "sha256": "170a30cf6a044921d923d07683ca1a4308272524f58fd95b4b4f7383956969db",
- "url": "https://raw.githubusercontent.com/brato-mo/polica-updates/main/prod/Polica-2.15.apk",
+ "code": 121,
+ "name": "2.18",
+ "notes": "StoreFront je posebna kartica pretrage (Planogrami | StoreFront | Narudžbe | Vijesti): traži artikal u cijelom StoreFrontu, i van tvojih planograma, s izborom statusa (11, 12, 21, 81 …). Svaka kartica ima svoju boju. Traka Minus liste pokazuje vrijeme zadnje provjere.",
+ "size": 4232834,
+ "sha256": "64b74dcf7db84e341d72da0416f58393bd2a06e20f5e58a74afd077f402024e1",
+ "url": "https://raw.githubusercontent.com/brato-mo/polica-updates/main/prod/Polica-2.18.apk",
  "cert": "443e361952c3c370e524a75f9fbb5fbf31197a30d13fa23262c36408c2a89982",
- "published": "2026-11-18T22:54:05Z"
+ "published": "2026-11-19T08:35:51Z"
 }
