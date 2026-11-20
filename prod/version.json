@@ -1,12 +1,12 @@
 {
  "channel": "prod",
  "package": "ba.polica",
- "code": 121,
- "name": "2.18",
- "notes": "StoreFront je posebna kartica pretrage (Planogrami | StoreFront | Narudžbe | Vijesti): traži artikal u cijelom StoreFrontu, i van tvojih planograma, s izborom statusa (11, 12, 21, 81 …). Svaka kartica ima svoju boju. Traka Minus liste pokazuje vrijeme zadnje provjere.",
- "size": 4232834,
- "sha256": "64b74dcf7db84e341d72da0416f58393bd2a06e20f5e58a74afd077f402024e1",
- "url": "https://raw.githubusercontent.com/brato-mo/polica-updates/main/prod/Polica-2.18.apk",
+ "code": 124,
+ "name": "2.21",
+ "notes": "Brže skeniranje: StoreFront stranica ostaje spremna 10 minuta dok je aplikacija otvorena. Pretraga StoreFronta brža (0,4 s), samo pravi pogoci, živa zaliha. Barkodovi povezani na telefonu se sami šalju u zajedničku listu.",
+ "size": 4236930,
+ "sha256": "d9866642724664cc05b57cadea6c3d0c27ce16ee743882847137b56f21004c6d",
+ "url": "https://raw.githubusercontent.com/brato-mo/polica-updates/main/prod/Polica-2.21.apk",
  "cert": "443e361952c3c370e524a75f9fbb5fbf31197a30d13fa23262c36408c2a89982",
- "published": "2026-11-19T08:35:51Z"
+ "published": "2026-11-20T18:56:51Z"
 }
