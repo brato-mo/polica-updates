@@ -1,12 +1,12 @@
 {
  "channel": "prod",
  "package": "ba.polica",
- "code": 124,
- "name": "2.21",
- "notes": "Brže skeniranje: StoreFront stranica ostaje spremna 10 minuta dok je aplikacija otvorena. Pretraga StoreFronta brža (0,4 s), samo pravi pogoci, živa zaliha. Barkodovi povezani na telefonu se sami šalju u zajedničku listu.",
- "size": 4236930,
- "sha256": "d9866642724664cc05b57cadea6c3d0c27ce16ee743882847137b56f21004c6d",
- "url": "https://raw.githubusercontent.com/brato-mo/polica-updates/main/prod/Polica-2.21.apk",
+ "code": 125,
+ "name": "2.22",
+ "notes": "Brži prvi sken: StoreFront stranica je spremna ranije, a sken odmah poslije otvaranja skenera više ne otvara drugu stranicu. Na artiklu „Zamjena čeka“ iz StoreFrontove liste zamjena. StoreFront pretraga pokazuje samo rezultate prijavljene prodavnice. OOPUS: prevelik potpis se ne šalje, traži se novi.",
+ "size": 4241026,
+ "sha256": "60344f86e6b696d104df16ff0247e7af2e2d82e3786190e5c774ae7dc19bf399",
+ "url": "https://raw.githubusercontent.com/brato-mo/polica-updates/main/prod/Polica-2.22.apk",
  "cert": "443e361952c3c370e524a75f9fbb5fbf31197a30d13fa23262c36408c2a89982",
- "published": "2026-11-20T18:56:51Z"
+ "published": "2026-11-21T23:34:07Z"
 }
