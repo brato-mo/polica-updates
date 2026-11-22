@@ -1,12 +1,12 @@
 {
  "channel": "prod",
  "package": "ba.polica",
- "code": 127,
- "name": "2.24",
- "notes": "Popravke ekrana stižu bez instalacije: aplikacija ih sama preuzme, provjeri potpis i primijeni pri sljedećem otvaranju (ili odmah, dugme Primijeni). Ovo je zadnja verzija koja se za to mora instalirati.",
- "size": 4253314,
- "sha256": "ad09ae8ae021dec4385465238259146bba499cfd3b6d1db114a819c9d2eb994a",
- "url": "https://raw.githubusercontent.com/brato-mo/polica-updates/main/prod/Polica-2.24.apk",
+ "code": 128,
+ "name": "2.25",
+ "notes": "Planogram: jedan dodir pored oznaka daje cijeli ekran (bez traka), drugi vraća. Popravke ekrana stižu same i primjenjuju se na početnom ekranu kad ništa ne radiš, bez gašenja aplikacije i bez prekida upisa; pokvarena popravka se sama vraća na prethodnu ispravnu.",
+ "size": 4261506,
+ "sha256": "1dbb6a6f3072764e9dc19f81d661583424bc59aac31cb82ef07089462e7b5c5b",
+ "url": "https://raw.githubusercontent.com/brato-mo/polica-updates/main/prod/Polica-2.25.apk",
  "cert": "443e361952c3c370e524a75f9fbb5fbf31197a30d13fa23262c36408c2a89982",
- "published": "2026-11-22T14:33:20Z"
+ "published": "2026-11-22T22:00:29Z"
 }
