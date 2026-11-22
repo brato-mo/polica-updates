@@ -1,12 +1,12 @@
 {
  "channel": "prod",
  "package": "ba.polica",
- "code": 125,
- "name": "2.22",
- "notes": "Brži prvi sken: StoreFront stranica je spremna ranije, a sken odmah poslije otvaranja skenera više ne otvara drugu stranicu. Na artiklu „Zamjena čeka“ iz StoreFrontove liste zamjena. StoreFront pretraga pokazuje samo rezultate prijavljene prodavnice. OOPUS: prevelik potpis se ne šalje, traži se novi.",
+ "code": 126,
+ "name": "2.23",
+ "notes": "Planogram: oznake zaliha i cijena više ne skaču dok stižu podaci. Povezane šifre pokazuju svaka svoju zalihu, bez sabiranja. Poslije promjene prodavnice ne prikazuju se zalihe stare prodavnice. Narudžbe: čitanje koje ne uspije do kraja više ne briše narudžbe s ekrana.",
  "size": 4241026,
- "sha256": "60344f86e6b696d104df16ff0247e7af2e2d82e3786190e5c774ae7dc19bf399",
- "url": "https://raw.githubusercontent.com/brato-mo/polica-updates/main/prod/Polica-2.22.apk",
+ "sha256": "21822e41013c77f3bd7405c6dc112ffb1458a81b74b0cf8df7211e0b343fc068",
+ "url": "https://raw.githubusercontent.com/brato-mo/polica-updates/main/prod/Polica-2.23.apk",
  "cert": "443e361952c3c370e524a75f9fbb5fbf31197a30d13fa23262c36408c2a89982",
- "published": "2026-11-21T23:34:07Z"
+ "published": "2026-11-22T12:53:36Z"
 }
