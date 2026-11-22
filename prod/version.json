@@ -1,12 +1,12 @@
 {
  "channel": "prod",
  "package": "ba.polica",
- "code": 126,
- "name": "2.23",
- "notes": "Planogram: oznake zaliha i cijena više ne skaču dok stižu podaci. Povezane šifre pokazuju svaka svoju zalihu, bez sabiranja. Poslije promjene prodavnice ne prikazuju se zalihe stare prodavnice. Narudžbe: čitanje koje ne uspije do kraja više ne briše narudžbe s ekrana.",
- "size": 4241026,
- "sha256": "21822e41013c77f3bd7405c6dc112ffb1458a81b74b0cf8df7211e0b343fc068",
- "url": "https://raw.githubusercontent.com/brato-mo/polica-updates/main/prod/Polica-2.23.apk",
+ "code": 127,
+ "name": "2.24",
+ "notes": "Popravke ekrana stižu bez instalacije: aplikacija ih sama preuzme, provjeri potpis i primijeni pri sljedećem otvaranju (ili odmah, dugme Primijeni). Ovo je zadnja verzija koja se za to mora instalirati.",
+ "size": 4253314,
+ "sha256": "ad09ae8ae021dec4385465238259146bba499cfd3b6d1db114a819c9d2eb994a",
+ "url": "https://raw.githubusercontent.com/brato-mo/polica-updates/main/prod/Polica-2.24.apk",
  "cert": "443e361952c3c370e524a75f9fbb5fbf31197a30d13fa23262c36408c2a89982",
- "published": "2026-11-22T12:53:36Z"
+ "published": "2026-11-22T14:33:20Z"
 }

@@ -6,6 +6,9 @@ ključevi, adrese servera i lični podaci nisu ovdje.
 - `prod/`: prava aplikacija (paket `ba.polica`).
 - `test/`: TEST verzija (paket `ba.polica.test`, instalira se pored prave i nikad je ne zamjenjuje).
 
+Od 2.24 su tu i paketi ekrana (`hot.json`, `hot/<code>-<n>.zip`): nova verzija ekrana iste aplikacije, potpisana istim
+ključem kao APK; aplikacija je uzima bez instalacije samo ako je potpis njen i paket napravljen baš za instaliranu verziju.
+
 `version.json` ima broj verzije, kratki opis izmjena, veličinu, SHA-256 i adresu APK-a. Prije instalacije aplikacija
 provjerava veličinu, SHA-256, ime paketa, versionCode i isti potpisni certifikat kao instalirana verzija. Android
 uvijek traži potvrdu korisnika, a podaci aplikacije ostaju.
