@@ -1,12 +1,12 @@
 {
  "channel": "prod",
  "package": "ba.polica",
- "code": 128,
- "name": "2.25",
- "notes": "Planogram: jedan dodir pored oznaka daje cijeli ekran (bez traka), drugi vraća. Popravke ekrana stižu same i primjenjuju se na početnom ekranu kad ništa ne radiš, bez gašenja aplikacije i bez prekida upisa; pokvarena popravka se sama vraća na prethodnu ispravnu.",
- "size": 4261506,
- "sha256": "1dbb6a6f3072764e9dc19f81d661583424bc59aac31cb82ef07089462e7b5c5b",
- "url": "https://raw.githubusercontent.com/brato-mo/polica-updates/main/prod/Polica-2.25.apk",
+ "code": 129,
+ "name": "2.26",
+ "notes": "StoreFront pretraga: prvo artikli koji su na stanju, statusi u dva reda bez skrolanja. Zalihe i cijene planograma više ne čekaju pozadinska čitanja; Narudžbe kad ih otvoriš kreću odmah.",
+ "size": 4265602,
+ "sha256": "0bd1f8e81e9609e5d82d9b389286ec1b63f22df3f9142a3236ad9a9970641dab",
+ "url": "https://raw.githubusercontent.com/brato-mo/polica-updates/main/prod/Polica-2.26.apk",
  "cert": "443e361952c3c370e524a75f9fbb5fbf31197a30d13fa23262c36408c2a89982",
- "published": "2026-11-22T22:00:29Z"
+ "published": "2026-11-23T23:11:43Z"
 }
