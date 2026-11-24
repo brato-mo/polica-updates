@@ -1,12 +1,12 @@
 {
  "channel": "prod",
  "package": "ba.polica",
- "code": 129,
- "name": "2.26",
- "notes": "StoreFront pretraga: prvo artikli koji su na stanju, statusi u dva reda bez skrolanja. Zalihe i cijene planograma više ne čekaju pozadinska čitanja; Narudžbe kad ih otvoriš kreću odmah.",
- "size": 4265602,
- "sha256": "0bd1f8e81e9609e5d82d9b389286ec1b63f22df3f9142a3236ad9a9970641dab",
- "url": "https://raw.githubusercontent.com/brato-mo/polica-updates/main/prod/Polica-2.26.apk",
+ "code": 130,
+ "name": "2.27",
+ "notes": "Regulacija i statusi: koji kod za koju situaciju, šta znači svaki status artikla i regulacije artikla iz prodavnice; aplikacija sama prati promjene pravila u MYJYSK-u i StoreFrontu.",
+ "size": 4278019,
+ "sha256": "da3542e44d3dd8fb5f8ae0a8ef867122af6b0c719dcfe8504e8a683affdf7ed0",
+ "url": "https://raw.githubusercontent.com/brato-mo/polica-updates/main/prod/Polica-2.27.apk",
  "cert": "443e361952c3c370e524a75f9fbb5fbf31197a30d13fa23262c36408c2a89982",
- "published": "2026-11-23T23:11:43Z"
+ "published": "2026-11-24T10:02:29Z"
 }
