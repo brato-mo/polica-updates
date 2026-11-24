@@ -1,12 +1,12 @@
 {
  "channel": "prod",
  "package": "ba.polica",
- "code": 130,
- "name": "2.27",
- "notes": "Regulacija i statusi: koji kod za koju situaciju, šta znači svaki status artikla i regulacije artikla iz prodavnice; aplikacija sama prati promjene pravila u MYJYSK-u i StoreFrontu.",
- "size": 4278019,
- "sha256": "da3542e44d3dd8fb5f8ae0a8ef867122af6b0c719dcfe8504e8a683affdf7ed0",
- "url": "https://raw.githubusercontent.com/brato-mo/polica-updates/main/prod/Polica-2.27.apk",
+ "code": 131,
+ "name": "2.28",
+ "notes": "Ostali alati → Regulacija zalihe: ukloni ili dodaj zalihu s kodom i komentarom direktno iz aplikacije, uz istu potvrdu prijavom kao Minus lista. Ništa se ne šalje dvaput.",
+ "size": 4290379,
+ "sha256": "c07ccc05ac14218e77bf0c34614a4d8b63efd18e29f2c4012f5ccaf46b8b4186",
+ "url": "https://raw.githubusercontent.com/brato-mo/polica-updates/main/prod/Polica-2.28.apk",
  "cert": "443e361952c3c370e524a75f9fbb5fbf31197a30d13fa23262c36408c2a89982",
- "published": "2026-11-24T10:02:29Z"
+ "published": "2026-11-24T11:26:08Z"
 }
