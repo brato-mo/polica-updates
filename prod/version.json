@@ -1,12 +1,12 @@
 {
  "channel": "prod",
  "package": "ba.polica",
- "code": 133,
- "name": "2.30",
- "notes": "Rezervacije: obična rezervacija ima rok od 14 dana od kreiranja (MYJYSK 3.03.2), plaćena ili ne; klik rezervacija do kraja dana kreiranja + 48 h (MYJYSK 3.10); provjera za rezervaciju robe koje nema na zalihi. Regulacija zalihe: upozorenje uz kod 50.",
- "size": 4315026,
- "sha256": "0dcc7d07104ff15b28ef3075a1192f8dc1f12f63041807c9a07b02b2f76a20b9",
- "url": "https://raw.githubusercontent.com/brato-mo/polica-updates/main/prod/Polica-2.30.apk",
+ "code": 134,
+ "name": "2.31",
+ "notes": "Ekran artikla: šifre istog artikla (zbir slobodne zalihe lijevo, svaka šifra sa svojom količinom i statusom desno) i narudžbe kupaca odmah ispod planograma. Keš slika proizvoda do 150 MB.",
+ "size": 4319189,
+ "sha256": "6cc3b31baa420a6782c328b9b388fcd619d842c59ca9158e75cbbd86036dc2e3",
+ "url": "https://raw.githubusercontent.com/brato-mo/polica-updates/main/prod/Polica-2.31.apk",
  "cert": "443e361952c3c370e524a75f9fbb5fbf31197a30d13fa23262c36408c2a89982",
- "published": "2026-11-26T12:20:40Z"
+ "published": "2026-11-26T22:15:08Z"
 }
